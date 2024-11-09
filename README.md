@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project generates quiz questions for a Database Design course I took in Fall 2024. The quiz generator uses LangChain with the OpenAI API to create relevant and varied questions based on the course materials. The code was developed and executed in Google Colab.
+This repository is for generating quiz questions for a Database Design course I took in Fall 2024. Using LangChain with the OpenAI API, it creates diverse and relevant questions based on pdf course materials. The code was developed and executed in Google Colab.
 
 ## Quick Start in Colab
 
